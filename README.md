@@ -4,9 +4,11 @@
 ### 前言
 正如你所见，这是我的博客目录页，创立之初的目的是``纯粹``的技术分享
 
+#### 博客更新进展
+- [x] readme学习笔记
 
 ## 目录
 
 
-__#### 感谢名单__  
-``readme学习``:https://blog.csdn.net/A33280000f/article/details/115836658
+#### __感谢名单__  
+``readme学习``：[cryptocxf大佬](https://blog.csdn.net/A33280000f?type=blog "点击跳转主页")
